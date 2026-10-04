@@ -1,6 +1,6 @@
 +++
 title = "Cases"
-weight = 10
+weight = 4
 +++
 
 ## Motivation
@@ -64,7 +64,7 @@ Time to present our 7 heroes:
 
 We can classify every usage of a case into two categories. The case is used either with a preposition or without it. When it's used without a presposition it has it's "natural" meaning, this meaning is often what gave the case it's name. When it's used with a preposition the meaning comes mostly from the preposition. This condemns us to learn the proper case to every preposition, which is mostly arbitrary system. Note that some prepositions (about half of them) can be combined with more than one case resulting in a diffrent meaning every time.
 
-The table below summarizes the "natural" meaning of every case and the prepositions that are associated with it. Some of the "natural" meanings of the cases may be approximated by english prepositions. These prepositions don't really have an equivivalent in Czech. You can think about it like this, when you would use this preposition in english you would use that case in Czech and **no** preposition. The preposition is kinda baked into the "natural" meaning of that case. These prepositions are in the natural meaning of the cell **in bold**.
+The table below summarizes the "natural" meaning of every case and the prepositions that are associated with it. Some of the "natural" meanings of the cases may be approximated by english prepositions. These prepositions don't really have an equivivalent in Czech. You can think about it like this, every time you would use this preposition in english you would use the corresponding case in Czech and **no** preposition. The preposition is kinda baked into the "natural" meaning of that case. These prepositions are placed in the "natural" meaning cell and they are **in bold**.
 
 |Case| "Natural" meaning | Prepositions |
 |-|-|-|
@@ -76,7 +76,13 @@ The table below summarizes the "natural" meaning of every case and the prepositi
 |Locative| |na, o, po, při, v |
 |Instrumental| Instrument or means by which something is carried out, **by** | mezi, nad, pod, před, s, za|
 
-Below we will briefly discuss each case
+Below we will briefly discuss each case.
 
 ## Nominative
 
+This is the basic form of a word. It is the dictionary form of a word. It is also used to denote subject of a sentence. Here are some examples of it:
+
+- **Kočka** jí myš. (The cat is eating a mouse.)
+- **Učitel** přišel. (The teacher came.)
+
+## Genitive 

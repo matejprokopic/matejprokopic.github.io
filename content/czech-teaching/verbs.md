@@ -69,7 +69,7 @@ However the conjugation pattern of the verb can be easily decided by the 1. pers
 i.e.: **začít - začnu - začal** (to start)
 |||
 |------|------|
-| začnu| začn**e**me (inf. začn**e**m) |
+| začnu| začn**e**me (CC: začn**e**m) |
 | začn**e**š | začn**e**te |
 | začn**e** | začnou |
 
@@ -89,15 +89,15 @@ i.e.: **dělat - dělám - dělal** (to do)
 |-|-|
 |děl**á**m|děl**á**me|
 |děl**á**š|děl**á**te|
-|děl**á**|děl**a**jí (inf. děl**a**j)|
+|děl**á**|děl**a**jí (CC: děl**a**j)|
 
 Note that in the third person plural the **á** added to the root looses it's prolongation and becomes a simple **a**.
 
-Also note that the **-e-** pattern allows an informal form in it's 1. person plural i.e. **začnem** (without the final **e**). Notice that the other two patterns wouldn't allow such a thing, since the result would then collide with their's 1. person singular forms.
+Also note that the **-e-** pattern allows an Common Czech form in it's 1. person plural i.e. **začnem** (without the final **e**). Notice that the other two patterns wouldn't allow such a thing, since the result would then collide with their's 1. person singular forms.
 
 ## Assuming the 1. person singular from the infinitive
 
-The process of unraveling the 1. person singular form from the infinitve is actually mostly regular, yet it so complex (it offers around 15 different patterns with most of them not having explicit marking, so you'd have to memorize the pattern affiliation as well), that it pays of more to treat the system as if it was irregular and simply learn the 1. by hearth.
+The process of unraveling the 1. person singular form from the infinitve is actually mostly regular, yet it so complex (it offers around 15 different patterns whilst most of them do not having an explicit marking, so you'd have to memorize the pattern affiliation as well), that it pays of more to treat the system as if it was irregular and simply learn the 1. person singular form by hearth.
 
 However there are some honorable mentions - patterns that occur often enough, so that it is worthy taking a look at them.
 

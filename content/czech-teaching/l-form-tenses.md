@@ -24,7 +24,7 @@ The past tense uses the l-form in Czech. The l-form carries information about th
 |masculine animate | **-i**|
 |masculine inanimate | **-y** |
 |feminine | **-y**|
-|neuter | **-a** (inf. **-y**) |
+|neuter | **-a** (CC: **-y**) |
 
 To show them in context we demonstrate them on the verb **být - jsem - byl** (to be).
 
@@ -39,7 +39,7 @@ To show them in context we demonstrate them on the verb **být - jsem - byl** (t
 |masculine animate | byl**i**|
 |masculine inanimate | byl**y** |
 |feminine | byl**y**|
-|neuter | byl**a** (inf. byl**y**) |
+|neuter | byl**a** (CC: byl**y**) |
 
 Note that since in the oral speech the **i** and **y** are pronounced **exactly** the same and since the informal form of neuter plural is very dominant in some reagions (such as Prague) the plural form of l-form is basically the same for all the genders (at least in the Prague oral production).
 
@@ -69,7 +69,7 @@ Smart reader will notice that the information about the person is missing in the
 |-|-|
 |*já **jsem** dělal**o***| *my **jsme** dělal**a***|
 |*ty **jsi** dělal**o***| *vy **jste** dělal**a***|
-|on**o** dělal**o**| on**a** dělal**a** (inf. on**y** dělal**y**)|
+|on**o** dělal**o**| on**a** dělal**a** (CC: on**y** dělal**y**)|
 
 Note that for the 3. person both singular and plural the auxiliary verb is missing. This is because the third person is usually the most used variant of the past tense. When there's something in the language that is the most used variant it can often get ommited and the speakers will recognize it's presence by it's absence (I know how it sounds). 
 
@@ -110,7 +110,7 @@ The conditional uses the l-form together with a different tense of the auxiliary
 
 |||
 |-|-|
-|bych|bychom (inf. bysme)|
+|bych|bychom (CC: bysme)|
 |bys | byste |
 |by | by |
 
