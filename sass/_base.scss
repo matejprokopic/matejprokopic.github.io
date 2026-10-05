@@ -24,6 +24,11 @@ p {
     margin: 15px 0;
     font-size: 18px;
     text-align: justify;
+
+    a {
+        font-weight: bold;
+        text-decoration: underline !important;
+    }
 }
 
 ul, ol {
