@@ -19,8 +19,8 @@ Na úkoly se bude používat sova, připojit se můžete [zde](https://owl.mff.c
 |---|---|
 | 5. října |[Stáhnout PDF](/pdf/cv1.pdf)|
 | 12. října |[Stáhnout PDF](/pdf/cv2.pdf)|
-| 19. října |[Stáhnout PDF](/pdf/cv5.pdf)|
-| 26. října |[Stáhnout PDF](/pdf/cv6.pdf)|
+| 19. října |[Stáhnout PDF](/pdf/cv6.pdf)|
+| 26. října |[Stáhnout PDF](/pdf/cv5.pdf)|
 | 2. listopadu|[Stáhnout PDF](/pdf/cv8.pdf)|
 | 9. listopadu ||
 | 16. listopadu ||
